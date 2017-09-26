@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              tools:context=".MainActivity">
+
+    <com.ui.View.TitleLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#0d2839"
+        app:titleColor="#ffffff"
+        app:titleText="ScrollView"/>
+
+    <com.qbw.customview.RefreshLoadMoreLayout
+        android:id="@+id/refreshloadmore"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.qbw.customview.rlm.RlmScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:overScrollMode="never"
+            android:scrollbars="none">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="700dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:text="向上滑动"
+                    android:textSize="23sp"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:gravity="center"
+                    android:text="上拉试试"/>
+            </RelativeLayout>
+        </com.qbw.customview.rlm.RlmScrollView>
+    </com.qbw.customview.RefreshLoadMoreLayout>
+</LinearLayout>

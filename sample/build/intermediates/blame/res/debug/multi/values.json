@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "F:\\asSpace\\HangTest\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 247,
+                    "endColumn": 52,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "F:\\asSpace\\HangTest\\sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 54,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "F:\\asSpace\\HangTest\\sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 255,
+                        "endColumn": 54,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endColumn": 43,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "F:\\asSpace\\HangTest\\sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 43,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 50,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "F:\\asSpace\\HangTest\\sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 50,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 48,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "F:\\asSpace\\HangTest\\sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 48,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 786
+                },
+                "from": {
+                    "file": "F:\\asSpace\\HangTest\\sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 791,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 946
+                },
+                "from": {
+                    "file": "F:\\asSpace\\HangTest\\sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 705
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <com.ui.View.TitleLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#0d2839"
+        app:titleColor="#ffffff"
+        app:titleText="RecyclerView"/>
+
+    <com.qbw.customview.RefreshLoadMoreLayout
+        android:id="@+id/rlm"
+        android:layout_width="match_parent"
+        app:rll_header_hint_normal="下拉给我试试看"
+        app:rll_header_hint_ready="主淫我已经准备好了"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:overScrollMode="never"/>
+    </com.qbw.customview.RefreshLoadMoreLayout>
+</LinearLayout>

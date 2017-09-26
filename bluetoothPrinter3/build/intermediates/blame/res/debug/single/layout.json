@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connectusb.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_connectusb.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_plaintext.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_plaintext.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setbtpara.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_setbtpara.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_updateprogram.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_updateprogram.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\lay3.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\lay3.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\myprinter_main.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\myprinter_main.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setkey.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_setkey.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\file_manager.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\file_manager.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connectbtpaired.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_connectbtpaired.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\start_private.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\start_private.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_picture.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_picture.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cmd.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_cmd.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\lay4.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\lay4.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\lay1.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\lay1.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_form.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_form.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\file_list_item.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\file_list_item.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_curve.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_curve.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_barcode.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_barcode.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_printernameandmac.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\list_item_printernameandmac.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_searchbt.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_searchbt.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cutter.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_cutter.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connectip.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_connectip.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\lay2.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\lay2.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_formattext.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_formattext.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_checkkey.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_checkkey.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connectbtmac.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_connectbtmac.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tc03.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_tc03.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qrcode.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity_qrcode.xml"
+    },
+    {
+        "merged": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\build\\intermediates\\res\\merged\\debug\\layout\\activity.xml",
+        "source": "F:\\asSpace\\HangTest\\bluetoothPrinter3\\src\\main\\res\\layout\\activity.xml"
+    }
+]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    tools:context="sage.lu6gmail.com.hangtest.activity.PrintTextActivity">
+    <TextView
+        android:id="@+id/tv"
+        android:textSize="16sp"
+        android:text="随着Google对HttpClient 摒弃,和Volley的逐渐没落,OkHttp开始异军突起,而Retrofit则对okHttp进行了强制依赖。
+
+Retrofit是由Square公司出品的针对于Android和Java的类型安全的Http客户端，
+
+如果看源码会发现其实质上就是对okHttp的封装，使用面向接口的方式进行网络请求，利用动态生成的代理类封装了网络接口请求的底层,
+
+其将请求返回javaBean，对网络认证 REST API进行了很好对支持此，使用Retrofit将会极大的提高我们应用的网络体验。"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <Button
+        android:text="printText"
+        android:onClick="printText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

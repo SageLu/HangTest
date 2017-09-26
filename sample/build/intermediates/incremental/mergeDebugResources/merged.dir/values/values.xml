@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AutofitTextView"><attr format="dimension" name="minTextSize"/><attr format="float" name="precision"/><attr format="boolean" name="sizeToFit"/></declare-styleable>
+    <string name="app_name">AutoFitTextView</string>
+    <string name="example">This is an example</string>
+    <string name="input_hint">text</string>
+    <string name="label_autofit">Autofit:</string>
+    <string name="label_normal">Normal:</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->c
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

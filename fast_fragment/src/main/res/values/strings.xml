@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="welcome_tips">汤圆\n\n这个冬天因你而不冷</string>
+    <string name="app_name">快速搭建项目</string>
+    <string name="title_framework_main">快速搭建项目(MD版)</string>
+    <string name="title_recycler_activity">我在Activity</string>
+    <string name="title_recycler_fragment">我在Fragment</string>
+</resources>

@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              tools:context=".MainActivity">
+
+    <com.ui.View.TitleLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#0d2839"
+        app:titleColor="#ffffff"
+        app:titleText="View"/>
+
+    <com.qbw.customview.RefreshLoadMoreLayout
+        android:id="@+id/refreshloadmore"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="下拉刷新"
+            android:textSize="23sp"
+            android:textStyle="bold"/>
+    </com.qbw.customview.RefreshLoadMoreLayout>
+</LinearLayout>
